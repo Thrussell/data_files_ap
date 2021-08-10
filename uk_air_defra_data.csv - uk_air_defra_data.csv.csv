@@ -1,0 +1,19 @@
+Daily and Multi-day air quality monitoring data,,,,,,,,,,,
+Measured data - All Data are GMT hour ending,,,,,,,,,,,
+Data for year 2020,,,,,,,,,,,
+Multi-day data,London Marylebone Road,,,,,,,,,,
+Start Date,End Date,PC_16_6,Status / units,PC_17_8,Status / units,PC_19_2,Status / units,PC_20_6,Status / units,PC_22_1,Status / units
+01/01/2020,31/01/2020,493,V particles cm-3,567,V particles cm-3,622,V particles cm-3,648,V particles cm-3,659,V particles cm-3
+01/02/2020,29/02/2020,370,V particles cm-3,431,V particles cm-3,477,V particles cm-3,503,V particles cm-3,512,V particles cm-3
+01/03/2020,31/03/2020,282,V particles cm-3,328,V particles cm-3,363,V particles cm-3,381,V particles cm-3,389,V particles cm-3
+01/04/2020,30/04/2020,157,V particles cm-3,186,V particles cm-3,209,V particles cm-3,227,V particles cm-3,237,V particles cm-3
+01/05/2020,31/05/2020,205,V particles cm-3,238,V particles cm-3,264,V particles cm-3,282,V particles cm-3,292,V particles cm-3
+01/06/2020,30/06/2020,287,V particles cm-3,320,V particles cm-3,345,V particles cm-3,357,V particles cm-3,358,V particles cm-3
+01/07/2020,31/07/2020,270,V particles cm-3,323,V particles cm-3,363,V particles cm-3,386,V particles cm-3,398,V particles cm-3
+01/08/2020,31/08/2020,315,V particles cm-3,360,V particles cm-3,389,V particles cm-3,401,V particles cm-3,404,V particles cm-3
+01/09/2020,30/09/2020,322,V particles cm-3,377,V particles cm-3,421,V particles cm-3,447,V particles cm-3,459,V particles cm-3
+01/10/2020,31/10/2020,340,V particles cm-3,408,V particles cm-3,460,V particles cm-3,490,V particles cm-3,503,V particles cm-3
+01/11/2020,30/11/2020,326,V particles cm-3,387,V particles cm-3,435,V particles cm-3,463,V particles cm-3,475,V particles cm-3
+01/12/2020,31/12/2020,252,V particles cm-3,321,V particles cm-3,376,V particles cm-3,411,V particles cm-3,430,V particles cm-3
+,,,,,,,,,,,
+End of file,,,,,,,,,,,
